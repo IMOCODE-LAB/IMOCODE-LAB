@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <img src=["https://github.com/IMOCODE-LAB/IMOCODE-LAB/blob/main/ChatGPT%20Image%202025%E5%B9%B44%E6%9C%8814%E6%97%A5%2017_08_40.png?raw=true" width="100%" />
+  <img src="https://github.com/IMOCODE-LAB/IMOCODE-LAB/blob/main/ChatGPT%20Image%202025%E5%B9%B44%E6%9C%8814%E6%97%A5%2017_08_40.png?raw=true" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Kappy 👋</h1>
