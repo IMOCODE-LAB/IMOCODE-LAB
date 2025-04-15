@@ -38,5 +38,5 @@ Here are some ideas to get you started:
 
 ### 📫 Connect with me
 - GitHub: [IMOCODE-LAB](https://github.com/IMOCODE-LAB)
-- (Add your portfolio or email later if you'd like!)
+- ✉: imocode@outlook.jp
 
