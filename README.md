@@ -18,13 +18,11 @@ Here are some ideas to get you started:
   <img src="https://github.com/IMOCODE-LAB/IMOCODE-LAB/blob/main/ChatGPT%20Image%202025%E5%B9%B44%E6%9C%8814%E6%97%A5%2017_08_40.png?raw=true" width="100%" />
 </p>
 
-<h1 align="center">Hi, I'm Kappy 👋</h1>
-<p align="center">Freelance Python Programmer | AI Enthusiast | IMOCODE LAB Founder</p>
+<h1 align="center"> Hi there, I'm Kappy 👋  👋</h1>
+<p align="center">**Freelance Python Developer** | **AI Enthusiast** | Founder of **IMOCODE LAB**</p>
 
-<center>🌸 Coding from Japan. Dreaming under the Southern Cross. 🌠 </center>
+<p align="center">🌸 Coding from Japan. Dreaming under the Southern Cross. 🌠 </p>
 
-# Hi there, I'm Kappy 👋  
-**Freelance Python Developer** | **AI Enthusiast** | Founder of **IMOCODE LAB**
 
 🌏 Based in Japan, aiming to work remotely in Australia  
 🔧 Currently learning: `Python`, `Git`, `AI Automation`  
