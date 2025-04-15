@@ -1,4 +1,14 @@
-## Hi there 👋
+<h1 align="center">🌈 Dreaming of a future where everyone walks with their own AI 🌈</h1>
+
+<p align="center">
+  I believe that in the near future, having your own AI<br>
+  will be as natural as carrying a smartphone.<br><br>
+  More than just a tool, AI will be a trusted companion —<br>
+  someone to learn with, to share life with,<br>
+  and to support each other along the journey.
+</p>
+
+
 
 <!--
 **IMOCODE-LAB/IMOCODE-LAB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
