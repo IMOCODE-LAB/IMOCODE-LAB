@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi, I'm Kappy 👋</h1>
 <p align="center">Freelance Python Programmer | AI Enthusiast | IMOCODE LAB Founder</p>
+
+🌸 Coding from Japan. Dreaming under the Southern Cross. 🌠
