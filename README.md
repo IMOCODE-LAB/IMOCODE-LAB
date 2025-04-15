@@ -21,4 +21,24 @@ Here are some ideas to get you started:
 <h1 align="center">Hi, I'm Kappy 👋</h1>
 <p align="center">Freelance Python Programmer | AI Enthusiast | IMOCODE LAB Founder</p>
 
-🌸 Coding from Japan. Dreaming under the Southern Cross. 🌠
+<center>🌸 Coding from Japan. Dreaming under the Southern Cross. 🌠 </center>
+
+# Hi there, I'm Kappy 👋  
+**Freelance Python Developer** | **AI Enthusiast** | Founder of **IMOCODE LAB**
+
+🌏 Based in Japan, aiming to work remotely in Australia  
+🔧 Currently learning: `Python`, `Git`, `AI Automation`  
+📚 Always curious. Always coding.  
+💬 Ask me about: Python, GitHub, or AI project ideas!
+
+---
+
+### 🔥 My Mission
+> To create meaningful tools with Python and spread good vibes through tech!
+
+---
+
+### 📫 Connect with me
+- GitHub: [IMOCODE-LAB](https://github.com/IMOCODE-LAB)
+- (Add your portfolio or email later if you'd like!)
+
