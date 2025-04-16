@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/IMOCODE-LAB/IMOCODE-LAB/blob/main/ChatGPT%20Image%202025%E5%B9%B44%E6%9C%8814%E6%97%A5%2017_08_40.png?raw=true" width="100%" />
 </p>
 
-<h1 align="center"> Hi there, I'm Kappy 👋  👋</h1>
+<h1 align="center"> Hi there, I'm K4ppy 👋  👋</h1>
 <p align="center">**Freelance Python Developer** | **AI Enthusiast** | Founder of **IMOCODE LAB**</p>
 
 <p align="center">🌸 Coding from Japan. Dreaming under the Southern Cross. 🌠 </p>
