@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 </p>
 
 <h1 align="center"> Hi there, I'm K4ppy 👋  👋</h1>
-<p align="center">**Freelance Python Developer** | **AI Enthusiast** | Founder of **IMOCODE LAB**</p>
+<p align="center">**Freelance Python Programmer** | **AI Enthusiast** | Founder of **IMOCODE LAB**</p>
 
 <p align="center">🌸 Coding from Japan. Dreaming under the Southern Cross. 🌠 </p>
 
@@ -42,12 +42,18 @@ Here are some ideas to get you started:
 🌏 Based in Japan, aiming to work remotely in Australia  
 🔧 Currently learning: `Python`, `Git`, `AI Automation`  
 📚 Always curious. Always coding.  
-💬 Ask me about: Python, GitHub, or AI project ideas!
+💬 Ask me about: Python, AI project ideas!
+
+---
+
+### 🌟 About Me  
+- I'm an aspiring AI engineer currently learning Python.  
+My goal is to build smart tools that make life easier — with the help of ChatGPT ☕🤖
 
 ---
 
 ### 🔥 My Mission
-> To create meaningful tools with Python and spread good vibes through tech!
+- To create meaningful tools with Python and spread good vibes through tech!
 
 ---
 
