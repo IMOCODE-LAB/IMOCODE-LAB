@@ -50,3 +50,8 @@ Here are some ideas to get you started:
 - GitHub: [IMOCODE-LAB](https://github.com/IMOCODE-LAB)
 - ✉: imocode@outlook.jp
 
+### 🙌 Thank you
+
+<p align="center">
+  <img src="https://github.com/IMOCODE-LAB/IMOCODE-LAB/blob/main/Header2.png" alt="Thank you for coming!!" width="300"/>
+</p>
