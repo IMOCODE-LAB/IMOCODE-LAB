@@ -53,5 +53,5 @@ Here are some ideas to get you started:
 ### 🙌 Thank you
 
 <p align="center">
-  <img src="https://github.com/IMOCODE-LAB/IMOCODE-LAB/blob/main/Header2.png" alt="Thank you for coming!!" width="300"/>
+  <img src="https://github.com/IMOCODE-LAB/IMOCODE-LAB/blob/main/Thank%20you%20for%20coming.png" alt="Thank you for coming!!" width="100%"/>
 </p>
