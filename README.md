@@ -27,6 +27,11 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://github.com/IMOCODE-LAB/IMOCODE-LAB/blob/main/Header.png?raw=true" width="100%" />
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=IMOCODE-LAB&style=for-the-badge" alt="Visitor Count"/>
+  <img src="https://img.shields.io/badge/Learning-AI-blueviolet?style=for-the-badge" alt="Learning AI"/>
+  <img src="https://img.shields.io/badge/Lifestyle-DigitalNomad-00C2CB?style=for-the-badge" alt="Digital Nomad"/>
+</p>
 
 <h1 align="center"> Hi there, I'm K4ppy 👋  👋</h1>
 <p align="center">**Freelance Python Developer** | **AI Enthusiast** | Founder of **IMOCODE LAB**</p>
