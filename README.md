@@ -1,4 +1,6 @@
-<h1 align="center">🌈 Dreaming of a future where everyone walks with their own AI 🌈</h1>
+<h1 align="center">🌈 Dreaming of a future
+  
+where everyone walks with their own AI 🌈</h1>
 
 <p align="center">
   I believe that in the near future, having your own AI<br>
