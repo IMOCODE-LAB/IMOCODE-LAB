@@ -34,15 +34,15 @@ Here are some ideas to get you started:
 </p>
 
 <h1 align="center"> Hi there, I'm K4ppy 👋  👋</h1>
-<p align="center">**Freelance Python Programmer** | **AI Enthusiast** | Founder of **IMOCODE LAB**</p>
+<p align="center">**Freelance Python Programmer** | **AI Learner** | Founder of **IMOCODE LAB**</p>
 
 <p align="center">🌸 Coding from Japan. Dreaming under the Southern Cross. 🌠 </p>
 
 
 🌏 Based in Japan, aiming to work remotely in Australia  
-🔧 Currently learning: `Python`, `Git`, `AI Automation`  
+🔧 Currently learning: `Python`, `Data Science`, `AI Automation`  
 📚 Always curious. Always coding.  
-💬 Ask me about: Python, AI project ideas!
+💬 Ask me about: Data Science project ideas!
 
 ---
 
@@ -64,5 +64,5 @@ My goal is to build smart tools that make life easier — with the help of ChatG
 ### 🙌 Thank you
 
 <p align="center">
-  <img src="https://github.com/IMOCODE-LAB/IMOCODE-LAB/blob/main/Thank%20you%20for%20coming.png" alt="Thank you for coming!!" width="100%"/>
+  <img src="https://github.com/IMOCODE-LAB/IMOCODE-LAB/blob/main/Header02.png" alt="Thank you for coming!!" width="100%"/>
 </p>
