@@ -61,17 +61,15 @@ My goal is to build smart tools that make life easier — with the help of ChatG
 
 ### 🌱 Learning & Outputs
 
-- 📘 Zenn（技術メモ・写経ノート）  
-  https://zenn.dev/imocode
+- 📘 Zenn (Technical notes and code write-ups) : https://zenn.dev/imocode
 
-- 🧠 Kaggle（機械学習・コンペ参加記録）  
-  https://www.kaggle.com/imocode
+- 🧠 Kaggle (Machine learning practice and competition logs) : https://www.kaggle.com/imocode
 
 ---
 
 ### 📫 Connect with me
-- GitHub: [IMOCODE-LAB](https://github.com/IMOCODE-LAB)
-- ✉: imocode@outlook.jp
+- 🤖GitHub: [IMOCODE-LAB](https://github.com/IMOCODE-LAB)
+- ✉ Email : imocode@outlook.jp
 
 ### 🙌 Thank you
 
